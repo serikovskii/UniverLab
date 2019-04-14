@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UniverLab.Models
 {
-    public class Professor
+    public class Professor 
     {
         public int Id { get; set; }
         public string FullName { get; set; }

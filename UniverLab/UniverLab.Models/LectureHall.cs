@@ -9,6 +9,6 @@ namespace UniverLab.Models
     public class LectureHall
     {
         public int Id { get; set; }
-        public int Capavity { get; set; }
+        public int Capacity { get; set; }
     }
 }

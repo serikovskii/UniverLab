@@ -1,0 +1,11 @@
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\bin\Debug\Database.mdf
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\bin\Debug\UniverLab.DataAccess.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\bin\Debug\UniverLab.DataAccess.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\bin\Debug\UniverLab.Models.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\bin\Debug\UniverLab.Models.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\obj\Debug\UniverLab.DataAccess.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\obj\Debug\UniverLab.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\obj\Debug\UniverLab.DataAccess.csproj.CopyComplete
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\obj\Debug\UniverLab.DataAccess.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.DataAccess\obj\Debug\UniverLab.DataAccess.pdb

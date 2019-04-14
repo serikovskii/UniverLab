@@ -1,0 +1,5 @@
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.Models\bin\Debug\UniverLab.Models.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.Models\bin\Debug\UniverLab.Models.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.Models\obj\Debug\UniverLab.Models.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.Models\obj\Debug\UniverLab.Models.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab.Models\obj\Debug\UniverLab.Models.pdb

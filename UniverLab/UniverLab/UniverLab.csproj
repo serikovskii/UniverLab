@@ -33,6 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -47,6 +48,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UniverLab.DataAccess\UniverLab.DataAccess.csproj">
+      <Project>{B099B60C-49D8-48B2-8FC3-ECECA51B3777}</Project>
+      <Name>UniverLab.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniverLab.Models\UniverLab.Models.csproj">
+      <Project>{FF43BF5A-51E3-414D-8DD6-CB1867A27777}</Project>
+      <Name>UniverLab.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

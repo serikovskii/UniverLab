@@ -1,0 +1,14 @@
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.exe.config
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.exe
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\obj\Debug\UniverLab.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\obj\Debug\UniverLab.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\obj\Debug\UniverLab.exe
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\obj\Debug\UniverLab.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\Database.mdf
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\Database_log.ldf
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.DataAccess.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.Models.dll
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.DataAccess.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\bin\Debug\UniverLab.Models.pdb
+C:\Users\azat\Documents\GitHub\UniverLab\UniverLab\UniverLab\obj\Debug\UniverLab.csproj.CopyComplete
